@@ -1,0 +1,105 @@
+html, body,ul, ol, li,
+h1, h2, h3, h4, h5, h6, p, div {
+  margin: 0;
+  padding: 0;
+}
+body{
+ height:100%;
+ padding: 15px 15px;
+ border-right: 120px solid #ff5c33;
+ border-left: 120px solid #ff5c33;
+ background-color: #b3ffff;
+ text-align:center;
+}
+title{
+ font-style:Times New Roman;
+}
+.welcome{
+ padding:30px 0;
+}
+.welcome h1{
+ font-size:50px;
+ color: #005580;
+ text-align: center;
+ font-style: Comic Sans MS;
+}
+.description{
+ font-size:20px;
+ color: #ff00bf;
+ font-weight: 700;
+ text-align: center;
+ padding-bottom:25px;
+}
+.welcome img{
+ height: 250px;
+ weight: 250px;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+}
+.heading{
+ font-size:60px;
+ color: #00cc44;
+ margin: 15px 0;
+ padding: 5px 0 10px 0;
+ font-size:40px;
+ font-style:DVBW-TTRadhika;
+} 
+.welcome span{
+ color: #ff5c33;
+}
+.contents{
+ color: #804000;
+ font-size: 25px;
+ padding bottom: 30px;
+}
+li{
+ list-style: none;
+}
+span{
+ color: #990000;
+}
+.studies{
+ margin: 0 240px;
+ border-bottom: 2px dotted #ff0000;
+}
+.contents li{
+ padding:0 0 10px 0;
+}
+.boxes{
+ padding: 0 90px 40px 90px;
+}
+.boxes li{
+ float:left;
+ padding:10px 20px;
+}
+.list{
+ text-align:center;
+ width: 110px;
+ height: 20px;
+ border:1px solid #999999;
+ background-color: #c6ff1a;
+ border-radius:20px;
+ margin:0 auto;
+}
+.project{
+ background-color: #005580;
+ color: #ffffff;
+ font-size:30px;
+ padding:30px 0;
+}
+.project-title{
+ color: #ffffff;
+ padding-bottom:50px;
+}
+.account{
+ width: 200px;
+ height: 20px;
+ border:1px solid #80ff80;
+ border-radius:20px;
+ font-size:30px;
+ background-color: #b3ffd9;
+}
+.links li{
+ padding: 10px 0 10px 0;
+}
